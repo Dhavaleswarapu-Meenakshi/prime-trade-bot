@@ -1,0 +1,25 @@
+[
+    {
+        "orderId": "d06e4469",
+        "symbol": "BTCUSDT",
+        "side": "BUY",
+        "type": "MARKET",
+        "status": "FILLED",
+        "price": 77355.46,
+        "executedQty": 0.01,
+        "executedValue": 773.55,
+        "timestamp": "2026-05-20T14:17:46.127381"
+    },
+    {
+        "orderId": "a1458088",
+        "symbol": "BTCUSDT",
+        "side": "SELL",
+        "type": "LIMIT",
+        "status": "FILLED",
+        "price": 70000.0,
+        "marketPrice": 77466.47,
+        "executedQty": 0.01,
+        "executedValue": 700.0,
+        "timestamp": "2026-05-20T14:18:41.853060"
+    }
+]
